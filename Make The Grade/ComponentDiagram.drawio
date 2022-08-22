@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-22T00:16:35.276Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="YibJG2INSiooT9e_x11k" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-22T08:53:53.045Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="OdoT030neZ1v2iIGtzKF" version="20.2.5" type="github">
   <diagram id="UyRPuzSYpdRJmJERUzkm" name="Page-1">
     <mxGraphModel dx="2858" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,17 +6,17 @@
         <mxCell id="1" parent="0" />
         <object placeholders="1" c4Name="Web Application" c4Type="ContainerScopeBoundary" c4Application="[Container]" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="N0HlpnEwI89hhfbZXmFX-31">
           <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="-510" y="30" width="850" height="620" as="geometry" />
+            <mxGeometry x="-510" y="30" width="1010" height="620" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="N0HlpnEwI89hhfbZXmFX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="N0HlpnEwI89hhfbZXmFX-33" target="N0HlpnEwI89hhfbZXmFX-8">
+        <mxCell id="N0HlpnEwI89hhfbZXmFX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="N0HlpnEwI89hhfbZXmFX-50" target="N0HlpnEwI89hhfbZXmFX-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="40" y="760" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="N0HlpnEwI89hhfbZXmFX-5" value="Inserts, updates&lt;br&gt;and retrieves data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N0HlpnEwI89hhfbZXmFX-4">
           <mxGeometry x="-0.1429" y="-1" relative="1" as="geometry">
-            <mxPoint x="-21" as="offset" />
+            <mxPoint x="-94" y="19" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="N0HlpnEwI89hhfbZXmFX-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="N0HlpnEwI89hhfbZXmFX-20" target="N0HlpnEwI89hhfbZXmFX-17">
@@ -31,7 +31,7 @@
         </mxCell>
         <object placeholders="1" c4Type="Database" c4Container="RDMS" c4Technology=" Oracle or MS SQL Server" c4Description="Holds data about exam definitions,&#xa;individual exams and results" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="N0HlpnEwI89hhfbZXmFX-8">
           <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
-            <mxGeometry x="410" y="220" width="240" height="120" as="geometry" />
+            <mxGeometry x="580" y="220" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Azure Identity and Access Management System (IAM)" c4Type="Software System" c4Description="Creates, maintains, and manages identity information. Provides authentication services" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="N0HlpnEwI89hhfbZXmFX-17">
@@ -51,19 +51,19 @@
         </mxCell>
         <mxCell id="N0HlpnEwI89hhfbZXmFX-22" value="Validates&amp;nbsp;&lt;br&gt;Security Token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N0HlpnEwI89hhfbZXmFX-21">
           <mxGeometry x="0.1938" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="Container Diagram for Exam System" c4Type="ContainerScopeBoundary" c4Description="Created for Computer Share&#39;s assessment.&#xa;Last modified on 22 August 2022" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Description%&lt;/div&gt;" id="N0HlpnEwI89hhfbZXmFX-24">
+        <object placeholders="1" c4Name="Component Diagram for Exam System" c4Type="ContainerScopeBoundary" c4Description="Created for Computer Share&#39;s assessment.&#xa;Last modified on 22 August 2022" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Description%&lt;/div&gt;" id="N0HlpnEwI89hhfbZXmFX-24">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;metaEdit=1;allowArrows=0;resizable=1;rotatable=0;connectable=0;recursiveResize=0;expand=0;pointerEvents=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="-790" y="700" width="330" height="40" as="geometry" />
+            <mxGeometry x="-800" y="810" width="330" height="40" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="N0HlpnEwI89hhfbZXmFX-25" value="Legend" style="align=left;fontSize=16;fontStyle=1;strokeColor=none;fillColor=none;fontColor=#4D4D4D;spacingTop=-8;resizable=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="710" width="180" height="30" as="geometry" />
+          <mxGeometry x="600" y="700" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N0HlpnEwI89hhfbZXmFX-26" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=none;align=left;spacingLeft=10;strokeColor=none;rounded=1;arcSize=11;fontColor=#FFFFFF;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="110" y="740" width="180" height="120" as="geometry" />
+          <mxGeometry x="600" y="730" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="N0HlpnEwI89hhfbZXmFX-27" value="Person" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#1E4074;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;align=left;spacingLeft=10;strokeColor=none;fontColor=#FFFFFF;fontSize=9;" vertex="1" parent="N0HlpnEwI89hhfbZXmFX-26">
           <mxGeometry width="180" height="30" as="geometry" />
@@ -79,34 +79,42 @@
         </mxCell>
         <object placeholders="1" c4Name="Authorization Component" c4Type="Component" c4Technology="MVC Rest Controller?" c4Description="Checks authorization for system functions, avoids exam invalid operations via ip and datetime checks" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="N0HlpnEwI89hhfbZXmFX-32">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="-430" y="340" width="240" height="120" as="geometry" />
+            <mxGeometry x="-450" y="330" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="N0HlpnEwI89hhfbZXmFX-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="N0HlpnEwI89hhfbZXmFX-33" target="N0HlpnEwI89hhfbZXmFX-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <object placeholders="1" c4Name="Exam Definition Controller" c4Type="Component" c4Technology="MVC Rest Controller" c4Description="Creates and updates exam definitions" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="N0HlpnEwI89hhfbZXmFX-33">
+        <mxCell id="N0HlpnEwI89hhfbZXmFX-55" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="N0HlpnEwI89hhfbZXmFX-33" target="N0HlpnEwI89hhfbZXmFX-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N0HlpnEwI89hhfbZXmFX-56" value="Uses" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N0HlpnEwI89hhfbZXmFX-55">
+          <mxGeometry x="-0.36" relative="1" as="geometry">
+            <mxPoint x="9" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="Exam Definition Controller" c4Type="Component" c4Technology="MVC Rest Controller" c4Description="Handles HTTP requests for creating and updating exam definitions." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="N0HlpnEwI89hhfbZXmFX-33">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="-40" y="40" width="240" height="120" as="geometry" />
+            <mxGeometry x="-120" y="40" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="N0HlpnEwI89hhfbZXmFX-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="N0HlpnEwI89hhfbZXmFX-34" target="N0HlpnEwI89hhfbZXmFX-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <object placeholders="1" c4Name="Exam Controller" c4Type="Component" c4Technology="MVC Rest Controller" c4Description="Creates and manages individual exams and answers" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="N0HlpnEwI89hhfbZXmFX-34">
+        <object placeholders="1" c4Name="Exam Controller" c4Type="Component" c4Technology="MVC Rest Controller" c4Description="Handles HTTP requests for creating and managing individual exams and answers" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="N0HlpnEwI89hhfbZXmFX-34">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="-40" y="220" width="240" height="120" as="geometry" />
+            <mxGeometry x="-120" y="220" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="N0HlpnEwI89hhfbZXmFX-47" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="N0HlpnEwI89hhfbZXmFX-35" target="N0HlpnEwI89hhfbZXmFX-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <object placeholders="1" c4Name="Exam Evaluation Controller" c4Type="Component" c4Technology="MVC Rest Controller" c4Description="Evaluates multiple choice examsautomaticly,&#xa;short answer and essay questions by teachers&#39; actions." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="N0HlpnEwI89hhfbZXmFX-35">
+        <object placeholders="1" c4Name="Exam Evaluation Controller" c4Type="Component" c4Technology="MVC Rest Controller" c4Description="Handles HTTP requests for evaluating short answer and essay questions." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="N0HlpnEwI89hhfbZXmFX-35">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="-40" y="400" width="240" height="120" as="geometry" />
+            <mxGeometry x="-120" y="400" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="N0HlpnEwI89hhfbZXmFX-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="N0HlpnEwI89hhfbZXmFX-34" target="N0HlpnEwI89hhfbZXmFX-8">
+        <mxCell id="N0HlpnEwI89hhfbZXmFX-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="N0HlpnEwI89hhfbZXmFX-51" target="N0HlpnEwI89hhfbZXmFX-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-110" y="800" as="sourcePoint" />
             <mxPoint x="290.0799999999999" y="810" as="targetPoint" />
@@ -114,10 +122,10 @@
         </mxCell>
         <mxCell id="N0HlpnEwI89hhfbZXmFX-37" value="Inserts, updates&lt;br&gt;and retrieves data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N0HlpnEwI89hhfbZXmFX-36">
           <mxGeometry x="-0.1429" y="-1" relative="1" as="geometry">
-            <mxPoint x="-21" as="offset" />
+            <mxPoint x="9" y="20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N0HlpnEwI89hhfbZXmFX-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="N0HlpnEwI89hhfbZXmFX-35" target="N0HlpnEwI89hhfbZXmFX-8">
+        <mxCell id="N0HlpnEwI89hhfbZXmFX-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="N0HlpnEwI89hhfbZXmFX-54" target="N0HlpnEwI89hhfbZXmFX-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-120" y="860" as="sourcePoint" />
             <mxPoint x="-60" y="730" as="targetPoint" />
@@ -125,7 +133,7 @@
         </mxCell>
         <mxCell id="N0HlpnEwI89hhfbZXmFX-39" value="Inserts, updates&lt;br&gt;and retrieves data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N0HlpnEwI89hhfbZXmFX-38">
           <mxGeometry x="-0.1429" y="-1" relative="1" as="geometry">
-            <mxPoint x="-21" as="offset" />
+            <mxPoint x="-84" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="N0HlpnEwI89hhfbZXmFX-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="N0HlpnEwI89hhfbZXmFX-20" target="N0HlpnEwI89hhfbZXmFX-33">
@@ -144,8 +152,8 @@
             <mxPoint x="-490" y="190" as="sourcePoint" />
             <mxPoint y="240" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-110" y="110" />
-              <mxPoint x="-110" y="250" />
+              <mxPoint x="-150" y="110" />
+              <mxPoint x="-150" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -167,6 +175,64 @@
         <mxCell id="N0HlpnEwI89hhfbZXmFX-45" value="Uses&lt;br&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;[JSON/HTTPS]&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N0HlpnEwI89hhfbZXmFX-44">
           <mxGeometry x="-0.2769" y="2" relative="1" as="geometry">
             <mxPoint x="-79" y="22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="Exam Definition Handler" c4Type="Component" c4Technology=".Net Core Application" c4Description="Creates and updates exam definitions" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="N0HlpnEwI89hhfbZXmFX-50">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="220" y="40" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Exam Handler" c4Type="Component" c4Technology=".Net Core Application" c4Description="Creates and manages individual exams and answers" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="N0HlpnEwI89hhfbZXmFX-51">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="220" y="220" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Exam Evaluation Handler" c4Type="Component" c4Technology=".Net Core Application" c4Description="Evaluates multiple choice examsautomaticly,&#xa;short answer and essay questions by teachers&#39; actions." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="N0HlpnEwI89hhfbZXmFX-54">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="220" y="400" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="N0HlpnEwI89hhfbZXmFX-57" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="N0HlpnEwI89hhfbZXmFX-34" target="N0HlpnEwI89hhfbZXmFX-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="110" as="sourcePoint" />
+            <mxPoint x="230" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N0HlpnEwI89hhfbZXmFX-58" value="Uses" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N0HlpnEwI89hhfbZXmFX-57">
+          <mxGeometry x="-0.36" relative="1" as="geometry">
+            <mxPoint x="9" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N0HlpnEwI89hhfbZXmFX-59" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="N0HlpnEwI89hhfbZXmFX-35" target="N0HlpnEwI89hhfbZXmFX-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="120" as="sourcePoint" />
+            <mxPoint x="240" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N0HlpnEwI89hhfbZXmFX-60" value="Uses" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N0HlpnEwI89hhfbZXmFX-59">
+          <mxGeometry x="-0.36" relative="1" as="geometry">
+            <mxPoint x="9" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="Operating System" c4Type="Software System" c4Description="Schedule and run evaluation job for multiple choice questions" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="N0HlpnEwI89hhfbZXmFX-61">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="-790" y="490" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" id="N0HlpnEwI89hhfbZXmFX-62">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="N0HlpnEwI89hhfbZXmFX-61" target="N0HlpnEwI89hhfbZXmFX-54">
+            <mxGeometry width="240" relative="1" as="geometry">
+              <mxPoint x="-270" y="560" as="sourcePoint" />
+              <mxPoint x="-30" y="560" as="targetPoint" />
+              <Array as="points">
+                <mxPoint x="340" y="550" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="N0HlpnEwI89hhfbZXmFX-63" value="Calls" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N0HlpnEwI89hhfbZXmFX-62">
+          <mxGeometry x="0.023" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
