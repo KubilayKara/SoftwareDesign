@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T10:02:25.223Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="6f17-eL47HQQb5PBRq2d" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-23T10:06:50.842Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ekPAJlXNHy_3CS-36iZz" version="20.2.5" type="github">
   <diagram id="RIUP_wDPa-TaNX-vlD8p" name="Page-1">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
           <mxGeometry x="275" y="70" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="K25vXs8WVTMCiBZxx53v-14" value="Identity Server" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.access_control;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="190" y="330" width="40" height="40" as="geometry" />
+          <mxGeometry x="170" y="300" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K25vXs8WVTMCiBZxx53v-29" value="Cluster : &lt;span style=&quot;font-weight: normal;&quot;&gt;Kubernetes/OpenShift&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="600" y="39" width="220" height="30" as="geometry" />
@@ -55,7 +55,7 @@
             <mxPoint x="887.2600000000002" y="409" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K25vXs8WVTMCiBZxx53v-86" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.02;entryY=0.96;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;exitX=0.755;exitY=0.3;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="K25vXs8WVTMCiBZxx53v-14" target="K25vXs8WVTMCiBZxx53v-4">
+        <mxCell id="K25vXs8WVTMCiBZxx53v-86" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.05;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;exitX=0.755;exitY=0.3;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="K25vXs8WVTMCiBZxx53v-14" target="K25vXs8WVTMCiBZxx53v-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="420" as="sourcePoint" />
             <mxPoint x="200" y="363.6" as="targetPoint" />
